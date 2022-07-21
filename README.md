@@ -1,2 +1,2 @@
 # Astroids
-The retro classic arcade game A steroids recreated. 
+The retro classic arcade game Asteroids recreated. 
