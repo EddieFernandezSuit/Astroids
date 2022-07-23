@@ -2,10 +2,8 @@ package com.neet.gamestates;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
-import com.badlogic.gdx.graphics.g2d.ParticleEmitter;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
-import com.badlogic.gdx.graphics.glutils.FloatFrameBuffer;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.MathUtils;
 import com.neet.eddie.playground.PlaygroundGame;
@@ -47,7 +45,6 @@ public class PlayState extends GameState {
     private float bgTimer;
     private boolean playLowPulse;
 
-    private int upgradescore;
 
 
     public PlayState(GameStateManager gsm){

@@ -1,6 +1,5 @@
 package com.neet.entities;
 
-import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.MathUtils;
 import com.neet.eddie.playground.PlaygroundGame;
@@ -28,7 +27,6 @@ public class FlyingSaucer extends SpaceObject {
     private float pathTimer;
     private float pathTime1;
     private float pathTime2;
-    private float pathTime3;
 
     private int direction;
     public static final int LEFT = 0;
