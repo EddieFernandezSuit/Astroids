@@ -1,10 +1,8 @@
 package com.neet.entities;
-
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.MathUtils;
 import com.neet.eddie.playground.PlaygroundGame;
 import com.neet.managers.Jukebox;
-
 import java.util.ArrayList;
 
 // import static sun.audio.AudioPlayer.player;
