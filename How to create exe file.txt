@@ -1,0 +1,18 @@
+Java to exe
+open command prompt
+cd to project folder
+gradle desktop:dist
+change desktop/build.gradle change line 20 compile to runtimeClassPath
+gradle desktop:dist
+Jar file in projectfolder/desktop/build/libs/
+use launch4j on the jar file
+
+
+CS
+Switch to release 
+build
+build solution
+bin folder
+release folder
+Copy that whole folder 
+Exe file in folder
