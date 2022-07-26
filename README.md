@@ -2,7 +2,7 @@
 The retro classic arcade game Asteroids
 
 ## How to play
-- run Astroids.exe
+- Run Astroids.exe
 - Press enter to select play in the main menu
 - Use the left and right arrow keys to rotate the space ship and change the direction that it is faces.
 - Use the up arrow key to accelerate forward in the direction that the ship is facing.
